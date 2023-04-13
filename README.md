@@ -1,2 +1,2 @@
-# Spotify Million Playlist
- Spotify Playlists Analysis and Predictions
+# Spotify
+ Spotify-Recommendation.System
